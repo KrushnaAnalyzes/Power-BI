@@ -1,3 +1,3 @@
 # Power-BI
 
-This repository contains two of my power BI projects.
+This repository contains three of my power BI projects.
